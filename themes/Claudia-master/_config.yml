@@ -1,0 +1,41 @@
+
+# html lang
+language: en
+
+# main menu navigation
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+
+widgets:
+  - tag
+  - archive
+  - recent_posts
+  - category
+
+# social config
+social:
+  zhihu:
+  twitter: /
+  facebook: /
+  linkedin:
+  instagram: /
+  github: haojen
+
+user:
+  name: Haojen
+  avatar: /images/avatar.jpg
+  location: In the dust
+  description: May the Force be with you
+
+# documents: https://github.com/utterance/utterances
+# API config: https://utteranc.es/
+comment_utteranc:
+  enable: true
+  repo: Haojen/Claudia-theme-blog # your blog repo
+
+# dark
+# light
+# user-can-set
+appearance: auto # Default value is auto
