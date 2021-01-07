@@ -1,3 +1,7 @@
+title: about
+date: 2021-2-7 20:30:20
+layout: about
+
 # Claudia
 简体中文 | [English](./README.md)
 

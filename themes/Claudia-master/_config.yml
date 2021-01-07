@@ -5,7 +5,7 @@ language: en
 # main menu navigation
 menu:
   Home: /
-  About: /about/about.md
+  About: /about
   Archives: /archives
 
 widgets:
@@ -39,3 +39,5 @@ comment_utteranc:
 # light
 # user-can-set
 appearance: auto # Default value is auto
+
+block_highlight: highlight_rainbow
