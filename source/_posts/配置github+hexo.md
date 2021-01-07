@@ -1,7 +1,9 @@
 ---
+
 title: github+hexo配置
-date: 2021-01-08 21:46:30
+date: 2021-01-07
 tag: 教程
+
 ---
 
 ### 配置GITHUB +hexo
