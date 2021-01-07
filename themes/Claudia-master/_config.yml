@@ -1,12 +1,12 @@
 
 # html lang
-language: en
+language: zh-hans
 
 # main menu navigation
 menu:
-  主页: /
-  关于: /about
-  存档: /archives
+  home: /
+  about: /about
+  archives: /archives
 
 widgets:
   - tag
