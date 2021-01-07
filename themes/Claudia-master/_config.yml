@@ -20,11 +20,11 @@ social:
   twitter: /
   facebook: /
   linkedin:
-  instagram: /
-  github: haojen
+  instagram: 
+  github: zackzeng00
 
 user:
-  name: Haojen
+  name: Zack
   avatar: /images/avatar.jpg
   location: In the dust
   description: May the Force be with you
@@ -33,7 +33,7 @@ user:
 # API config: https://utteranc.es/
 comment_utteranc:
   enable: true
-  repo: Haojen/Claudia-theme-blog # your blog repo
+  repo: zackzeng00/zackzeng00.github.io # your blog repo
 
 # dark
 # light
