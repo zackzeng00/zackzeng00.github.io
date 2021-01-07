@@ -5,7 +5,7 @@ language: en
 # main menu navigation
 menu:
   Home: /
-  About: /about
+  About: /about/about.md
   Archives: /archives
 
 widgets:
@@ -17,17 +17,17 @@ widgets:
 # social config
 social:
   zhihu:
-  twitter: /
+  twitter: /zack_zeng
   facebook: /
   linkedin:
-  instagram: 
+  instagram: /zackzeng00
   github: zackzeng00
 
 user:
   name: Zack
   avatar: /images/avatar.jpg
-  location: In the dust
-  description: May the Force be with you
+  location: shenzhen
+  description: 游戏行业，效率，App达人
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
