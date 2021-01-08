@@ -1,7 +1,7 @@
 ---
 title: about
 date: 2017-05-31 10:05:56
-layout: page
+layout: about
 ---
 
 ### 关于这里
