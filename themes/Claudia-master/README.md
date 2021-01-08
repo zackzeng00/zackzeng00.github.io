@@ -16,13 +16,13 @@
 
 <p align="center">
   <span>English | </span> 
-  <a href="./README-EN.md" rel="nofollow">简体中文</a>
+  <a href="README-CN.md" rel="nofollow">简体中文</a>
 </p>
 
 ![cover](./screenshot/claudia-cover-v2.png)
 
 ## Changelog
-Recent update [2021.01.05](CHANGELOG.md)
+Recent update [01.08.2021](CHANGELOG.md)
 
 ## How to Use
 

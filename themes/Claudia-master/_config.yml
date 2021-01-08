@@ -6,7 +6,7 @@ language: zh-CN
 menu:
   Home: /
   About: /about
-  Archives: /archives
+  archive: /archives
 
 widgets:
   - tag
