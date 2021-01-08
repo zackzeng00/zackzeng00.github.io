@@ -4,53 +4,36 @@
 
 # Appearance
 appearance:
-  # Accent color, default '#2a2b33'
-  accent_color:
-  # Font color, default '#363636'
+  accent_color: '#607d8b'
   foreground_color:
-  # Border color, default '#e0e0e0'
   border_color:
-  # body background, default '#f5f7fa'
   background: '#ffffff https://www.toptal.com/designers/subtlepatterns/patterns/brickwall.png'
-  # Sidebar background (when opened), default to accent_color
-  sidebar_background:
-  # Card background, default '#fff'
+  sidebar_background: '#607d8b linear-gradient(to bottom,#607d8b 0%,#26323b 100%)'
   card_background:
-
-  # All background settings above support image, e.g.,
-  # '//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png #f5f7fa' or
-  # 'url(//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png) #f5f7fa'
-
-  # Maximum width of content
-  # content_width: 640
 
   # Fonts
   font:
     # Url of font css file
-    # Below is a font set containing Baloo Bhaijaan, Josefin Sans, Montserrat and Inconsolata from Google Fonts.
-    url: //fonts.googleapis.com/css?family=Baloo+Bhaijaan|Inconsolata|Josefin+Sans|Montserrat
+    # Below is a built-in font set containing Baloo Bhaijaan, Josefin Sans,
+    # Montserrat and Inconsolata from Google Fonts.
+    # Please feel free to replace it with your own css file
+    # 私有字体链接，随时失效，不建议长期引用
+    url: //cdn.jsdelivr.net/gh/ikeq/inside-static@assets/fonts.2511e3be15287e777006.css
 
-    # Base font which applied to body
-    base: "'Josefin Sans', 'PingFang SC'"
-    # Sidebar author font, fallback to `base`
-    logo:
+    # Base font which applied to <body>
+    base: "'Josefin Sans', 'PingFang SC', 'Microsoft YaHei'"
+    # Sidebar author name, fallback to `base`
+    logo: Lobster, cursive
     # Sidebar menu font, fallback to `base`
-    menu: 'Baloo Bhaijaan'
-    # Font for:
-    # - percentage on the fab button
-    # - month text on archives page
-    # - count
-    # - pager
-    # - toc index
-    # - category pill
+    menu: 'IM Fell DW Pica SC'
+    # Percentage on the fab button, month text on archives page, toc index and category pill,
     # fallback to `base`
-    label: Montserrat
-    # Headline(h1, h2, h3, h4, h5, h6) font, fallback to `base`
-    heading:
-    # Code and code block
-    code: Inconsolata, monospace
-    # Base font for printing which applied to body
-    print:
+    label: Sarpanch
+    # Headlines(h1, h2, h3, h4, h5, h6), fallback to `base`
+    heading: impact
+    # <code> and code block
+    code: "'Fira Code', Consolas, monospace"
+    print: "'PingFang SC', 'Microsoft YaHei'"
 
   # Code Syntax Highlighting
   # Uses an architecture called "base16" (https://github.com/chriskempson/base16),
@@ -114,7 +97,7 @@ sns:
   instagram:
   tumblr:
   dribbble:
-  telegram: zackzeng
+  telegram: https://t.me/zeee001
   youtube:
   hangouts:
   linkedin:
