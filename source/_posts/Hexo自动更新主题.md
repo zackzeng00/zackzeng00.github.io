@@ -16,8 +16,8 @@ tags:
 3. 后续使用git 自动更新主题
 
 
-#### Fork一份参考
-  这一步主要目的，是为了有一份自己可以修改的主题仓库，主要用的办法不熟悉git命令，那就直接到web页面点击
+#### Fork一份主题Git
+  这一步主要目的，是为了有一份自己可以修改的主题仓库，主要用的办法不熟悉git命令，那就直接到web页面点击。
 
 #### 添加一个子仓库
 
@@ -29,4 +29,5 @@ git submodule add https://github.com/cofess/hexo-theme-pure themes/pure
 #### 后续更新
 > 我自己还没研究明白，
 > 留白待续
+
 
