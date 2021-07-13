@@ -15,6 +15,11 @@ tag: 好物
 
 >> 动作：官方动作，第三方动作，自定义动作，这个应该是Drafts的灵魂了吧。用户可以跟据目前文本后续去处，使用对应的动作进行处理。每个人有自己的工作习惯处理习惯，可以深度简化你的操作。
 
+例如：这篇文章就是在「Drafts」+「Working Copy」 在iPad的上写完，并且直接部署在`github`生效。
+通过动作[fetch](https://actions.getdrafts.com/a/1S0)，把仓库内的文章拉到`Drafts`，修改完成之后，再通过动作[put](https://actions.getdrafts.com/a/1Sa)，把修改后的文章push 到`Working Copy`，再通过它更新github，再自动部署一次，完成发布。
+
+  至此，完成了只使用`iPad`就可以完成`HEXO`的写作，部署，发布等流程。
+
 所以`「动作」` 目前来看才是Drafts 的灵魂功能。
 
    如果不是需要处理表格，图片相关的文字的话，Drafts应该是目前工作流里面首选的App 好物推荐一波
