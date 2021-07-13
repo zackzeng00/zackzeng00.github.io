@@ -6,7 +6,10 @@ language: zh-CN
 menu:
   🏘Home: /
   👨‍🔧About: /about
-  🧰archive: /archives
+  🧰Archive: /archives
+  📒Wiki: https://wiki.zackzeng.com
+  
+
 
 widgets:
   - tag
