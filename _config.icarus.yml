@@ -104,11 +104,11 @@ head:
 navbar:
   # Navigation menu items
   menu:
-    Home: /
-    Archives: /archives
+    主页: /
+    归档: /archives
     # Categories: /categories
-    Tags: /tags
-    About: /about
+    标签: /tags
+    关于: /about
 
   # Links to be shown on the right of the navigation bar
   links:
@@ -243,15 +243,15 @@ widgets:
       Telegram:
         icon: fab fa-telegram-plane
         url: "https://t.me/joinchat/WzGjwOvpBhpjYWM1"
-      Twitter:
-        icon: fab fa-twitter
-        url: "https://twitter.com"
-      Dribbble:
-        icon: fab fa-dribbble
-        url: "https://dribbble.com"
-      RSS:
-        icon: fas fa-rss
-        url: /
+      # Twitter:
+      #   icon: fab fa-twitter
+      #   url: "https://twitter.com"
+      # Dribbble:
+      #   icon: fab fa-dribbble
+      #   url: "https://dribbble.com"
+      # RSS:
+      #   icon: fas fa-rss
+      #   url: /
   # Table of contents widget configurations
   - # Where should the widget be placed, left sidebar or right sidebar
     position: left
@@ -287,21 +287,21 @@ widgets:
     position: left
     type: tags
   # Google FeedBurner email subscription widget configurations
-  - # Where should the widget be placed, left sidebar or right sidebar
-    position: left
-    type: subscribe_email
-    # Hint text under the email input
-    description:
-    # Feedburner ID
-    feedburner_id: ""
+  # - # Where should the widget be placed, left sidebar or right sidebar
+  #   position: left
+  #   type: subscribe_email
+  #   # Hint text under the email input
+  #   description:
+  #   # Feedburner ID
+  #   feedburner_id: ""
   # Google AdSense unit configurations
-  - # Where should the widget be placed, left sidebar or right sidebar
-    position: left
-    type: adsense
-    # AdSense client ID
-    client_id: ""
-    # AdSense AD unit ID
-    slot_id: ""
+  # - # Where should the widget be placed, left sidebar or right sidebar
+  #   position: left
+  #   type: adsense
+  #   # AdSense client ID
+  #   client_id: ""
+  #   # AdSense AD unit ID
+  #   slot_id: ""
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
