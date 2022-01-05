@@ -46,12 +46,12 @@ Cubox的标注以及导出分享功能。非常不错。
 	2. cubox支持很好的分享体验 甚至标注也可以一起分享
 
 
-[1]:	www.inoreader.com
-[2]:	cubox.pro
+[1]:	https://www.inoreader.com
+[2]:	https://cubox.pro/
 [3]:	https://obsidian.md/
 [4]:	https://docs.rsshub.app/
-[5]:	www.sspai.com
+[5]:	https://www.sspai.com
 [6]:	http://www.jintiankansha.me/
-[7]:	feeddd.org
-[8]:	cubox.pro
-[9]:	ifttt.com
+[7]:	https://feeddd.org/
+[8]:	https://cubox.pro/
+[9]:	https://ifttt.com/home
