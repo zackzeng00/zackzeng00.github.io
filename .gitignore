@@ -5,3 +5,6 @@ db.json
 node_modules/
 .deploy*/
 public/
+.Ulysses-Group.plist
+.obsidian
+.Ulysses-Settings.plist
