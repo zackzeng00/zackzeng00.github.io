@@ -1,12 +1,12 @@
 
 ---
-title:  如何用Hexo搭建个人Blog
-date:2022-01-17
+title: "如何用Hexo搭建个人Blog"
+date: 2022-01-17
 tags: 
     - 转载
     - hexo
     - 教程
-toc:true 
+toc: true 
 ---
 
 >> 一直想写一个介绍搭建的blog 但是有很多不错的，所以也就偷懒了。转载一片
