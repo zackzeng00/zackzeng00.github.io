@@ -1,22 +1,33 @@
 name: GitHub Pages
-
-on: push
-
+on:
+  push:
+    branches:
+      - master
 jobs:
-  publish:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
         with:
-          node-version: '14'
-      - run: npm install
-      - run: npx hexo algolia
+          submodules: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "12.x"
+
+      - name: Install Dependencies
+        run: yarn
+      - name: algolia
         env:
           HEXO_ALGOLIA_INDEXING_KEY: ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
-      - run: NODE_ENV=production npx hexo g
-      - uses: peaceiris/actions-gh-pages@v3
+        run: yarn algolia
+      - run: yarn build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages
           force_orphan: true
