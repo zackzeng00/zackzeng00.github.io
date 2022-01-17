@@ -1,8 +1,8 @@
 version: 5.0.0
 variant: default
-logo: /img/logo.svg
+logo: /img/cat02.svg
 head:
-    favicon: /img/favicon.svg
+    favicon: /img/cat01.svg
     manifest:
         name: Zack
         short_name: Zack
