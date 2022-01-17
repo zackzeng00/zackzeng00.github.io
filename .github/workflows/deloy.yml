@@ -11,8 +11,6 @@ jobs:
         with:
           node-version: '12'
       - run: npm install
-      - run: git clone https://github.com/EdenJohnson2006/BlogBackup.git gitblog
-      - run: cd gitblog
       - run: git clone https://github.com/zackzeng00/hexo-theme-icarus.git themes/icarus
 
       - uses: peaceiris/actions-gh-pages@v3
