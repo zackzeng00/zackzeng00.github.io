@@ -1,3 +1,4 @@
 [submodule "themes/icarus"]
 	path = themes/icarus
 	url = https://github.com/zackzeng00/hexo-theme-icarus
+	branch = master
