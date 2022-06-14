@@ -1,7 +1,9 @@
 ---
 title: Obsidian插件推荐
 date: 2022-06-14
-tag: 推荐
+tag: 
+	- 推荐
+	- Obsidian
 toc: true
 ---
 
