@@ -5,7 +5,7 @@ date: 2023-03-09
 tag:
   - 教程
   - GPT
-- AI
+  - AI
 toc: true
 ---
 # 笔记软件测评
