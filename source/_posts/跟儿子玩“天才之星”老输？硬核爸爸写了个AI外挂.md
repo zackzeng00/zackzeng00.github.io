@@ -64,4 +64,4 @@ toc: true
 
 如果你也想体验一下被算法“秒杀”的感觉，或者想研究一下 DLX 算法的实现，欢迎Star我的项目！
 
-👉 **在线体验**: [https://zackzeng00.github.io/genius-star-game](https://zackzeng00.github.io/genius-star-game) 👉 **GitHub**: [https://github.com/zackzeng00/genius-star-game](https://github.com/zackzeng00/genius-star-game)  帮我新增一篇文章并push 到github
+👉 **在线体验**: [https://zackzeng00.github.io/genius-star-game](https://zackzeng00.github.io/genius-star-game) 👉 **GitHub**: [https://github.com/zackzeng00/genius-star-game](https://github.com/zackzeng00/genius-star-game) 
